@@ -1,10 +1,10 @@
 # Site settings
-title: 蓑笠翁的个人博客
-email: badboy4471@gmail.com
+title: 趣拍
+email: wanghh@danqoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  蓑笠翁的博客
+  趣拍的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://badboy4471.github.io" # the base hostname & protocol for your site
+url: "http://danqoo.github.io" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 
 # Sidebar filter
