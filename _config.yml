@@ -4,7 +4,7 @@ email: wanghh@danqoo.com
 description: > # this means to ignore newlines until "baseurl:"
   趣拍的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://danqoo.github.io" # the base hostname & protocol for your site
+url: "https://danqoo.github.io" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 
 # Sidebar filter
@@ -19,7 +19,7 @@ filter: 'category'
 # dribbble: username
 
 # avatar头像及Favicon
-avatar: https://avatars2.githubusercontent.com/u/11883321?v=3&s=460
+avatar: https://danqoo.github.io/assets/img/logo.jpg
 favicon: https://danqoo.github.io/assets/img/bitbug_favicon.ico
 
 # disqus 设置  email:wanghh@danqoo.com password:badboy4471
