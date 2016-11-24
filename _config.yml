@@ -20,7 +20,7 @@ filter: 'category'
 
 # avatar头像及Favicon
 avatar: https://avatars2.githubusercontent.com/u/11883321?v=3&s=460
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: https://danqoo.github.io/assets/img/bitbug_favicon.ico
 
 # disqus 设置  email:wanghh@danqoo.com password:badboy4471
 disqus:
