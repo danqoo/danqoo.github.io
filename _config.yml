@@ -12,24 +12,24 @@ rss_url: /pages/feed.xml
 filter: 'category'
 
 # Social account
-twitter: badboy4471
+# twitter: badboy4471
 # weibo:    ID
-github: badboy4471
+# github: badboy4471
 # codepen:  username
 # dribbble: username
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: https://avatars2.githubusercontent.com/u/11883321?v=3&s=460
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
-# disqus 设置
+# disqus 设置  email:wanghh@danqoo.com password:badboy4471
 disqus:
-  shortname: badboy4471
+  shortname: Danqoo
 
 # google analytics 设置
 ga:
-  id: UA-76613698-1
-  url: badboy4471.github.io
+  id: UA-87928441-1
+  url: https://danqoo.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
