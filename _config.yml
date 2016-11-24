@@ -24,7 +24,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus 设置  email:wanghh@danqoo.com password:badboy4471
 disqus:
-  shortname: Danqoo
+  shortname: danqoo
 
 # google analytics 设置
 ga:
